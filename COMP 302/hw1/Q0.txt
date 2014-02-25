@@ -1,0 +1,11 @@
+Alexander Reiff
+260504962
+
+Scenario 1:
+	Bob, Tom and Hanna are all in violation. Bob and Tom are in violation because they shared their code with someone else, which is against the rules. Hanna is in violation both for reading their code and for telling them how to change their code specifically rather than just giving them ideas.
+
+Scenario 2:
+	Bob has not violated the policy as long as he only posts the solutions to assignments after the assignment can no longer be turned in. He is only sharing knowledge and not answers to anything that could still be turned in for a grade.
+
+Scenario 3:
+	John, Matt and Abbey are all in violation. Abbey is in violation for showing her code to someone who is not her partner and Matt is in violation for looking at and then submitting her code. John is also in violation because he was supposed to be involved in every part of the assignment, so he had to have known that it wasn't their answer.

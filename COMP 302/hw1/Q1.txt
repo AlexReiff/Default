@@ -1,0 +1,47 @@
+Alexander Reiff
+260504962
+
+File "hw1-fixme.ml", line 12, characters 23-25:
+Error: Syntax error
+
+Solution: "match n of" should be changed to "match n with"
+
+File "hw1-fixme.ml", line 13, characters 6-8:
+Error: Syntax error
+
+Solution: "=>" should be "->"
+
+File "hw1-fixme.ml", line 14, characters 6-8:
+Error: Syntax error
+
+Solution: "=>" should still be '->'
+
+File "hw1-fixme.ml", line 30, characters 4-5:
+Error: Syntax error
+
+Solution: there needs to be a "|" before the pattern matching statement.
+
+File "hw1-fixme.ml", line 12, characters 21-22:
+Error: Unbound value n
+
+Solution: The function declaration doesn't specify a variable, just a type.
+	Should be rewritten as "let dble (n: int)..."
+
+File "hw1-fixme.ml", line 14, characters 14-18:
+Error: Unbound value dble
+
+Solution: The function dble isn't refined recursively so OCaml can't find anything named dble.
+	"let" should become "let rec."
+
+File "hw1-fixme.ml", line 30, characters 16-25:
+Error: Unbound value factorial
+
+Solution: There is no function named factorial. Change it to "fact" to match the function name.
+
+File "C:/Users/Alex/Downloads/COMP 302 hw1 code/hw1-fixme.ml", line 30, characters 15-29:
+Error: This expression has type float but an expression was expected of type
+         int
+
+Solution: If n = 0, it returns 1.0, so I changed it to return 1.
+
+Everything runs now!
