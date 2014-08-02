@@ -1,0 +1,9 @@
+test_networkflow_1.sdot
+capacities
+edgesFrom is {d={t=3.0}, t={}, s={b=2.0, a=3.0}, b={d=2.0}, c={t=2.0}, a={d=4.0, c=3.0}}
+
+flow
+edgesFrom is {d={t=3.0}, t={}, b={d=2.0}, s={b=2.0, a=3.0}, c={t=2.0}, a={d=1.0, c=2.0}
+
+residualCapacities
+edgesFrom is {d={b=2.0, a=1.0}, t={d=3.0, c=2.0}, b={s=2.0}, s={}, c={a=2.0}, a={d=3.0, s=3.0, c=1.0}

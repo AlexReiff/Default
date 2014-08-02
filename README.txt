@@ -1,1 +1,1 @@
-This is a sample repository
+All submitted programming aasssignments from my time as McGill University. 
